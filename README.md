@@ -9,4 +9,4 @@ Credit: "Global Map of St. Vincent and the Grenadines © ISCGM/ Lands and Survey
 
 Contact: Lands and Surveys Department.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/st_vincent.png)
+E-mail: ![email](email.png)
